@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(171, 179, 173);
+}
+
+.logo{
+    font-family: arial;
+    background-color: rgb(21, 80, 21);
+    width:1806px;
+    height:100px;
+
+}
+
+.inicio{
+
+    background-color: #00ff62;
+    width:1800px;
+    height:100px;
+}

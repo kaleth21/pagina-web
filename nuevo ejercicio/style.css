@@ -1,0 +1,133 @@
+body  
+{
+    background-color: rgba(126, 160, 136, 0.986);
+}
+
+#francia1{
+
+
+    background-color: rgba(20, 20, 247, 0.986);
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    width: 120px;
+    height: 200px;
+   
+   
+
+
+}
+#francia2
+{
+    background-color:rgb(253, 253, 255);
+    font-family: Verdana,  Tahoma, sans-serif;
+    position: relative;
+    width: 120px;
+    height: 200px;
+    margin-left: 120px;
+    margin-top: -200px;
+    
+    
+    
+}
+
+#francia3
+{
+    background-color:rgb(255, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    width: 120px;
+    height: 200px;
+    margin-left: 240px;
+    margin-top: -200px;
+  
+    
+    
+}
+
+
+#inglaterra1 
+{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    width: 360px;
+    height: 300px;
+    left: 300px;
+    margin-top: -30px;
+    
+}
+
+#inglaterra2 
+{
+    
+    background-color: rgb(255, 45, 45);
+    position: absolute;
+    width: 30px;
+    height: 293px;
+    left: 450px;
+    padding: 4px;
+    margin-top: -80px;
+    bottom: 280px;
+
+}
+
+#inglaterra3 {
+    
+    position: absolute;
+    background-color: rgb(248, 5, 5);
+    width: 360px;
+    height: 40px;
+    padding: -5px;
+    left: 300px;
+    top: 410px;
+    
+}
+
+
+
+#contenedorgeneral{
+    background-color: white;
+    width: 280px;
+    height: 200px;
+    margin-top: 100px;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 450px;
+    
+
+}
+
+#chile2 {
+    background-color:rgb(255, 0, 0);
+    width: 280px;
+    height: 100px;
+    margin-top: 0px;
+    
+}
+#logo{
+    width: 100px;
+    height: 100px;
+}
+
+ #portugal1{
+    background-color: darkgreen;
+    width:100px;
+    height: 200px;
+    position:absolute;
+    margin-left:300px;
+    margin-top:100px;
+    bottom:50px;
+}
+
+ #portugal2{
+    background-color: rgb(233, 19, 30);
+    width:205px;
+    height: 200px;
+    position:absolute;
+    margin-left:400px;
+    margin-top:100px;
+    bottom:50px;
+
+}
+
+
+
